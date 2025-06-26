@@ -2,7 +2,7 @@
 
 # beat4sprite-Collections
 
-Inspired collections and examples using beat4sprite.
+Inspired collections and examples using beat4sprite. Currently supported only for v4.0.1
 
 ### DISCLAIMER
 

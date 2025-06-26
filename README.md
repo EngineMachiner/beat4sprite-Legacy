@@ -14,7 +14,7 @@ This project is not associated with KONAMI.
 
 ## Usage
 
-  0. Make sure you already have [beat4sprite v4.0.1]([https://github.com/EngineMachiner/beat4sprite](https://github.com/EngineMachiner/beat4sprite/tree/b59af76a0cc3f18edc4f75eac8c3ba56c4bcb9fd)).
+  0. Make sure you already have [beat4sprite v4.0.1](https://github.com/EngineMachiner/beat4sprite/tree/b59af76a0cc3f18edc4f75eac8c3ba56c4bcb9fd).
   1. Copy the graphics of the branch you want and put the folder in "/Modules/beat4sprite/Graphics/".
   2. Drop the animations in BGAnimations folder.
 

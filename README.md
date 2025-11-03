@@ -1,6 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W32691S)
 
-# beat4sprite-Collections
+# beat4sprite-Legacy
 
 Inspired collections and examples using beat4sprite. Currently supported only for beat4sprite v4.0.1
 
@@ -14,7 +14,7 @@ This project is not associated with KONAMI.
 
 ## Usage
 
-  0. Make sure you already have [beat4sprite v4.0.1](https://github.com/EngineMachiner/beat4sprite/tree/b59af76a0cc3f18edc4f75eac8c3ba56c4bcb9fd).
+  0. Make sure you already have [this version of tapLua](https://github.com/EngineMachiner/tapLua/tree/cf49ae3ec4fb8d27142afb19368a458d7524b3b9) and [beat4sprite v4.0.1](https://github.com/EngineMachiner/beat4sprite/tree/b59af76a0cc3f18edc4f75eac8c3ba56c4bcb9fd).
   1. Copy the graphics of the branch you want and put the folder in "/Modules/beat4sprite/Graphics/".
   2. Drop the animations in BGAnimations folder.
 
